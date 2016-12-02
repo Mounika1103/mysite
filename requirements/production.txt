@@ -1,0 +1,9 @@
+# For Production
+# uWSGI loop engine with Tornado and Greenlet Environment Variables
+
+--requirement=base.txt
+
+tornado
+greenlet
+uwsgi
+raven

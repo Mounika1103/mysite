@@ -1,0 +1,12 @@
+# For Developers
+# Debugging and REPL Tools
+
+--requirement=base.txt
+
+django-debugtools
+django-devserver
+django-extensions
+django-quiet-runserver
+bpython
+ipython
+ptpython
