@@ -1,0 +1,245 @@
+[
+ {
+   "Node Id": 1,
+   "Node Type": "Dummy",
+   "Nodes": "QFI",
+   "Display item": "Tabular grid",
+   "Source object": "Table name",
+   "color": "#bd0026",
+   "size": "25"
+ },
+ {
+   "Node Id": 2,
+   "Node Type": "Static",
+   "Nodes": "Opportunity",
+   "Display item": "Tabular grid",
+   "Source object": "Table name",
+   "color": "#fecc5c",
+   "size": "20"
+ },
+ {
+   "Node Id": 3,
+   "Node Type": "Static",
+   "Nodes": "Opportunity Name",
+   "Display item": "Tabular grid",
+   "Source object": "/vantena_static/opportunity_name.json",
+   "color": "#fd8d3c",
+   "size": "15"
+ },
+ {
+   "Node Id": 4,
+   "Node Type": "Static",
+   "Nodes": "Names Starting with A-E",
+   "Display item": "Tabular grid",
+   "Source object": "Table name",
+   "color": "#f03b20",
+   "size": "13"
+ },
+ {
+   "Node Id": 5,
+   "Node Type": "Static",
+   "Nodes": "Names starting with F-J",
+   "Display item": "Tabular grid",
+   "Source object": "Table name",
+   "color": "#B02D5D",
+   "size": "13"
+ },
+ {
+   "Node Id": 6,
+   "Node Type": "Static",
+   "Nodes": "Names starting with K-P",
+   "Display item": "Tabular grid",
+   "Source object": "Table name",
+   "color": "",
+   "size": ""
+ },
+ {
+   "Node Id": 7,
+   "Node Type": "Static",
+   "Nodes": "Names starting with Q-U",
+   "Display item": "Tabular grid",
+   "Source object": "Table name",
+   "color": "",
+   "size": ""
+ },
+ {
+   "Node Id": 8,
+   "Node Type": "Static",
+   "Nodes": "Names starting with V-Z",
+   "Display item": "Tabular grid",
+   "Source object": "Table name",
+   "color": "",
+   "size": ""
+ },
+ {
+   "Node Id": 9,
+   "Node Type": "Dummy",
+   "Nodes": "Territory",
+   "Display item": "Tabular grid",
+   "Source object": "Table name",
+   "color": "",
+   "size": ""
+ },
+ {
+   "Node Id": 10,
+   "Node Type": "Static",
+   "Nodes": "North",
+   "Display item": "Tabular grid",
+   "Source object": "Table name",
+   "color": "",
+   "size": ""
+ },
+ {
+   "Node Id": 11,
+   "Node Type": "Static",
+   "Nodes": "East",
+   "Display item": "Tabular grid",
+   "Source object": "Table name",
+   "color": "",
+   "size": ""
+ },
+ {
+   "Node Id": 12,
+   "Node Type": "Static",
+   "Nodes": "West",
+   "Display item": "Tabular grid",
+   "Source object": "Table name",
+   "color": "",
+   "size": ""
+ },
+ {
+   "Node Id": 13,
+   "Node Type": "Static",
+   "Nodes": "South",
+   "Display item": "Tabular grid",
+   "Source object": "Table name",
+   "color": "",
+   "size": ""
+ },
+ {
+   "Node Id": 14,
+   "Node Type": "Static",
+   "Nodes": "Sales Person",
+   "Display item": "Tabular grid",
+   "Source object": "Table name",
+   "color": "",
+   "size": ""
+ },
+ {
+   "Node Id": 15,
+   "Node Type": "Live",
+   "Nodes": "QFI Overall",
+   "Display item": "Pie Chart",
+   "Source object": "static/piechart.json",
+   "color": "",
+   "size": ""
+ },
+ {
+   "Node Id": 16,
+   "Node Type": "Live",
+   "Nodes": "QFI INTER",
+   "Display item": "Comparative QFI Chart",
+   "Source object": "path to pull the comparative QFI chart",
+   "color": "",
+   "size": ""
+ },
+ {
+   "Node Id": 17,
+   "Node Type": "Live",
+   "Nodes": "QFI INTRA",
+   "Display item": "Comparative QFI Chart",
+   "Source object": "path to pull the comparative QFI chart",
+   "color": "",
+   "size": ""
+ },
+ {
+   "Node Id": 18,
+   "Node Type": "Live",
+   "Nodes": "QFI-WEB-INTER",
+   "Display item": "Comparative QFI Chart",
+   "Source object": "path to pull the comparative QFI chart",
+   "color": "",
+   "size": ""
+ },
+ {
+   "Node Id": 19,
+   "Node Type": "Live",
+   "Nodes": "QFI-CRM-INTER",
+   "Display item": "Comparative QFI Chart",
+   "Source object": "path to pull the comparative QFI chart",
+   "color": "",
+   "size": ""
+ },
+ {
+   "Node Id": 20,
+   "Node Type": "Live",
+   "Nodes": "QFI-HD-INTER",
+   "Display item": "Comparative QFI Chart",
+   "Source object": "path to pull the comparative QFI chart",
+   "color": "",
+   "size": ""
+ },
+ {
+   "Node Id": 21,
+   "Node Type": "Live",
+   "Nodes": "QFI-SM-INTER",
+   "Display item": "Comparative QFI Chart",
+   "Source object": "path to pull the comparative QFI chart",
+   "color": "",
+   "size": ""
+ },
+ {
+   "Node Id": 22,
+   "Node Type": "Live",
+   "Nodes": "QFI-SH-INTER",
+   "Display item": "Comparative QFI Chart",
+   "Source object": "path to pull the comparative QFI chart",
+   "color": "",
+   "size": ""
+ },
+ {
+   "Node Id": 23,
+   "Node Type": "Live",
+   "Nodes": "QFI-WEB-INTRA",
+   "Display item": "Comparative QFI Chart",
+   "Source object": "path to pull the comparative QFI chart",
+   "color": "",
+   "size": ""
+ },
+ {
+   "Node Id": 24,
+   "Node Type": "Live",
+   "Nodes": "QFI-CRM-INTRA",
+   "Display item": "Comparative QFI Chart",
+   "Source object": "path to pull the comparative QFI chart",
+   "color": "",
+   "size": ""
+ },
+ {
+   "Node Id": 25,
+   "Node Type": "Live",
+   "Nodes": "QFI-HD-INTRA",
+   "Display item": "Comparative QFI Chart",
+   "Source object": "path to pull the comparative QFI chart",
+   "color": "",
+   "size": ""
+ },
+ {
+   "Node Id": 26,
+   "Node Type": "Live",
+   "Nodes": "QFI-SM-INTRA",
+   "Display item": "Comparative QFI Chart",
+   "Source object": "path to pull the comparative QFI chart",
+   "color": "",
+   "size": ""
+ },
+ {
+   "Node Id": 27,
+   "Node Type": "Live",
+   "Nodes": "QFI-SH-INTRA",
+   "Display item": "Comparative QFI Chart",
+   "Source object": "path to pull the comparative QFI chart",
+   "color": "",
+   "size": ""
+ }
+]

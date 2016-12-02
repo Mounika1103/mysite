@@ -1,0 +1,39 @@
+<li class="nav-item {% if active == 'clients' %}active {% endif %}">
+    <a href="javascript:;" class="nav-link nav-toggle">
+        <i class="icon-briefcase"></i>
+        <span class="title">Clients</span>
+        <span class="arrow open"></span>
+    </a>
+    <ul class="sub-menu">
+        <li class="nav-item {% if sub_active == 'companies' %}active {% endif %}">
+            <a href="{% url 'vs_clients' %}" class="nav-link">
+                <i class="icon-bar-chart"></i>
+                <span class="title">Companies</span>
+            </a>
+        </li>
+        <!-- <li class="nav-item {% block sidebar_active_adminsetup %}{% endblock %}">
+            <a href="dashboard_2.html" class="nav-link ">
+                <i class="icon-settings"></i>
+                <span class="title">Admin Setup</span>
+            </a>
+        </li>
+        <li class="nav-item {% block sidebar_active_misc %}{% endblock %}">
+            <a href="dashboard_3.html" class="nav-link ">
+                <i class="icon-bulb"></i>
+                <span class="title">Miscellaneous</span>
+            </a>
+        </li> -->
+        <li class="nav-item {% if sub_active == 'configurations' %}active {% endif %}">
+            <a href="{% url 'vs_config_rl' %}" class="nav-link ">
+                <i class="icon-settings"></i>
+                <span class="title">Configurations</span>
+            </a>
+        </li>
+    </ul>
+</li>
+<li class="nav-item {% if active == 'sentiment_analysis' %}active {% endif %}">
+    <a href="{% url 'vs_sentiment_analysis' %}" class="nav-link">
+        <i class="icon-notebook"></i>
+        <span class="title">Sentiment Analysis</span>
+    </a>
+</li>

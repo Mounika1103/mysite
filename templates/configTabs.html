@@ -1,0 +1,27 @@
+{% load static from staticfiles %}
+
+
+<title>Untitled 2</title>
+<style type="text/css">
+.tab-content {
+    display: block;
+    padding: 6px 12px;
+    border-top: none;
+    text-align: center;
+    font-size:20px
+}
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+<script src="{% static 'global/plugins/bootstrap-tagsinput/bootstrap-tagsinput.min.js' %}" type="text/javascript"></script>
+<script src="{% static 'global/plugins/typeahead/handlebars.min.js' %}" type="text/javascript"></script>
+<script src="{% static 'global/plugins/typeahead/typeahead.bundle.min.js' %}" type="text/javascript"></script>
+
+<script>
+{% block content %}
+
+<p> {{text}}  </p> 
+
+
+
+{% endblock %}

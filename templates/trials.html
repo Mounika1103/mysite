@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+{% load static from staticfiles %}
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>MySite</title>
+
+<style type="text/css">
+
+.tabs {
+    width:100%;
+    display:inline-block;
+}
+
+.nav-tabs > li {
+        display: table-cell !important;
+        width: 1%  !important;
+        padding: 0;
+        margin: 0;
+        float: none; }
+
+.nav-tabs > li > a {
+          position: relative;
+          display: inline-block;
+          text-align: center;
+          border: 0;
+          height: auto;
+          font-size: 14px;
+          padding: 45px 15px 8px;
+          text-transform: uppercase;
+          background: none;
+          margin-right: 0;
+          color: #4c4c4c;
+          border: 0;
+          border-bottom: 3px solid rgba(243, 86, 93, 0.3);
+          -webkit-border-radius: 0;
+          -moz-border-radius: 0;
+          -ms-border-radius: 0;
+          -o-border-radius: 0;
+          border-radius: 0;
+          outline: none !important; }
+
+.nav-tabs > li:hover > a {
+          border: 0;
+          border-bottom: 3px solid #f3565d;
+          background: none; }
+          
+          text-decoration: none; }
+.nav-tabs > li:active > a {
+          border: 0;
+          border-bottom: 3px solid #f3565d;
+          background: none;
+          color: #fff;
+          text-decoration: none; }
+
+
+.tab-config-btn > ul {
+display: inline-block;
+clear: none;
+float: left;
+height: 24px;
+}
+
+.tab-content {
+       padding:15px;
+       border-radius:3px;
+       box-shadow:-1px 1px 1px rgba(0,0,0,0.15);
+       background:#fff;
+   }
+
+       .tab {
+           display:block;
+       }
+
+       .tab.active {
+           display:block;
+       }
+
+.para-content {
+display: block;
+    padding: 30px 12px;
+	
+    border-top: none;
+    text-align: center;
+    font-size:20px
+}
+.back-button {
+padding: 3px;
+display:block;
+background-color: black;
+color: white;
+text-align:center;
+position: absolute;
+top: 45px;
+left: 10px;
+}
+.back-home {
+padding: 30px 12px;
+position: absolute;
+display:block;
+text-align:center;
+top: 10px;
+left:45%;
+}
+
+.page-logo .logo-default {
+	width: 10%;
+	}
+.page-logo > a {
+	display: initial; float: initial;}
+.page-container {
+	margin-top: 92px;}
+
+.page-content {
+	padding: 0px 0 0 20px;}
+
+</style>
+<link href="{% static 'layouts/layout4/css/layout.min.css' %}" rel="stylesheet" type="text/css" />
+        <link href="{% static 'layouts/layout4/css/themes/light.min.css' %}" rel="stylesheet" type="text/css" id="style_color" />
+        <link href="{% static 'layouts/layout4/css/custom.min.css' %}" rel="stylesheet" type="text/css" />
+		
+
+<!-- BEGIN LOGO -->
+                <div class="page-logo">
+                    <a href="/">
+                        <img src="{% static 'internal/images/vectorscient-logo.svg' %}" alt="logo" class="logo-default" /> </a>
+                    
+                </div>
+                <!-- END LOGO -->
+</head>
+<body>
+<script>
+
+/*var loadConfigForm = function (tabId, url) {
+
+    $.get(url)
+        .done(function (response) {
+            $(tabId).html(response);
+        });
+
+}
+
+ $(document).ready(function () {
+
+    configURL = {
+        '#datastats': '/datastats/',
+       
+    }
+
+    // default
+    // var defaultTab = '#datastats';
+ 
+   // loadConfigForm(defaultTab, configURL[defaultTab]);
+
+
+    $('.tab-config-btn').on('click', function () {
+        var tab = $(this).attr('href');
+    
+        loadConfigForm(tab, configURL[tab]);
+    });
+
+});
+*/ 
+</script>
+
+{% block content %}
+{% csrf_token %}
+<div class="tabs">
+    <ul class="nav nav-tabs ">
+        <li class="active">
+            <a href="{% url 'datastats' %}"   class="tab-config-btn" target="_self">Data Stats </a>
+        </li>
+        <li>
+            <a href="#"  class="tab-config-btn"> Data Preparation </a>
+        </li>
+        <li>
+            <a href="#" class="tab-config-btn"> Feature Extraction </a>
+        </li>
+        <li>
+            <a href="#"   class="tab-config-btn"> Machine Learning </a>
+        </li>
+        <li>
+            <a href="#"   class="tab-config-btn">Accuracy Models </a>
+        </li>
+        <li>
+            <a href="#"  class="tab-config-btn">Predictions </a>
+        </li>
+    </ul>
+</div>
+
+              
+
+
+{% endblock %}
+</body>

@@ -1,0 +1,20 @@
+{% block content %}
+
+<form  id="showstats"  class="tab-content" >
+<p> Hi this is from showstats </p> 
+{{y}}  <br> 
+{% for i in boxes %}
+{{i}}  <br> 
+{% endfor %} <br>
+
+{{filename}} <br> <br> 
+ {{filedata}}	
+ <br> 
+<p> file data : </p>
+<!--   {% for f in filedata %}
+  	{{f}}
+ {% endfor %}  -->
+
+</form>
+
+{% endblock %}

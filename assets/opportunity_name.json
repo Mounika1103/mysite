@@ -1,0 +1,646 @@
+[
+ {
+   "Customer Name": "Qwest Communications Company LLC",
+   "Opportunity Id": "0061500000T9tu9AAB",
+   "Product": "Prod1",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 1000
+ },
+ {
+   "Customer Name": "UUNET Technologies Inc.",
+   "Opportunity Id": "0061500000T9tuyAAB",
+   "Product": "Prod1",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 300
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tu0AAB",
+   "Product": "Prod1",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 277
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9ttHAAR",
+   "Product": "Prod1",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 456
+ },
+ {
+   "Customer Name": "The Endurance International Group Inc.",
+   "Opportunity Id": "0061500000T9ttMAAR",
+   "Product": "Prod1",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 57568
+ },
+ {
+   "Customer Name": "Qwest Communications Company LLC",
+   "Opportunity Id": "0061500000T9tuCAAR",
+   "Product": "Prod1",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 687
+ },
+ {
+   "Customer Name": "Intgrted Software Sys I",
+   "Opportunity Id": "0061500000T9tuDAAR",
+   "Product": "Prod1",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 2324
+ },
+ {
+   "Customer Name": "UUNET Technologies Inc.",
+   "Opportunity Id": "0061500000T9tt5AAB",
+   "Product": "Prod1",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 5656
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tt8AAB",
+   "Product": "Prod1",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 3545
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tsbAAB",
+   "Product": "Prod1",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 7678
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tslAAB",
+   "Product": "Prod1",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 57657
+ },
+ {
+   "Customer Name": "Qwest Communications Company LLC",
+   "Opportunity Id": "0061500000T9tssAAB",
+   "Product": "Prod1",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 6565
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9ts1AAB",
+   "Product": "Prod1",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 3446
+ },
+ {
+   "Customer Name": "UUNET Technologies Inc.",
+   "Opportunity Id": "0061500000T9tuqAAB",
+   "Product": "Prod1",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 8999
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tvbAAB",
+   "Product": "Prod1",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 556
+ },
+ {
+   "Customer Name": "Level 3 Communications Inc.",
+   "Opportunity Id": "0061500000T9ttPAAR",
+   "Product": "Prod1",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 5656
+ },
+ {
+   "Customer Name": "Qwest Communications Company LLC",
+   "Opportunity Id": "0061500000T9ttcAAB",
+   "Product": "Prod1",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 6767
+ },
+ {
+   "Customer Name": "UUNET Technologies Inc.",
+   "Opportunity Id": "0061500000T9ttlAAB",
+   "Product": "Prod1",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 32656
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9ttqAAB",
+   "Product": "Prod1",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 6767
+ },
+ {
+   "Customer Name": "Xerox Corporation",
+   "Opportunity Id": "0061500000T9tv2AAB",
+   "Product": "Prod1",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 55767
+ },
+ {
+   "Customer Name": "Comcast Cable Communications Holdings Inc",
+   "Opportunity Id": "0061500000T9tv5AAB",
+   "Product": "Prod1",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 6578
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tt0AAB",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 2355
+ },
+ {
+   "Customer Name": "UUNET Technologies Inc.",
+   "Opportunity Id": "0061500000T9tsFAAR",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 546
+ },
+ {
+   "Customer Name": "SMS19MIA",
+   "Opportunity Id": "0061500000T9tsIAAR",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 676
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tuLAAR",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 787
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tuPAAR",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 2323
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tuTAAR",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 5678
+ },
+ {
+   "Customer Name": "SMS18MIA",
+   "Opportunity Id": "0061500000T9tuYAAR",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 8799
+ },
+ {
+   "Customer Name": "MPT Drives",
+   "Opportunity Id": "0061500000T9tsSAAR",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 67690
+ },
+ {
+   "Customer Name": "Qwest Communications Company LLC",
+   "Opportunity Id": "0061500000T9tsXAAR",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 3436
+ },
+ {
+   "Customer Name": "Dial Pool - TNT1.Champaign.Ameritech",
+   "Opportunity Id": "0061500000T9tsaAAB",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 45457
+ },
+ {
+   "Customer Name": "The Endurance International Group Inc.",
+   "Opportunity Id": "0061500000T9triAAB",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 21143
+ },
+ {
+   "Customer Name": "Comcast Cable Communications Holdings Inc",
+   "Opportunity Id": "0061500000T9trnAAB",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 47634
+ },
+ {
+   "Customer Name": "Amazon Technologies Inc.",
+   "Opportunity Id": "0061500000T9trqAAB",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 34868
+ },
+ {
+   "Customer Name": "Avon Foundation",
+   "Opportunity Id": "0061500000T9ts2AAB",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 2326
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tuiAAB",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 23367
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tukAAB",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 46588
+ },
+ {
+   "Customer Name": "UUNET Technologies Inc.",
+   "Opportunity Id": "0061500000T9tuuAAB",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 2367
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tvmAAB",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 5599
+ },
+ {
+   "Customer Name": "Headquarters USAISC",
+   "Opportunity Id": "0061500000T9ttNAAR",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 4558
+ },
+ {
+   "Customer Name": "Transbeam Inc.",
+   "Opportunity Id": "0061500000T9ttSAAR",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 2659
+ },
+ {
+   "Customer Name": "AT&T Internet Services",
+   "Opportunity Id": "0061500000T9ttXAAR",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 689
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tthAAB",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 226
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9ttnAAB",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 3547
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tvJAAR",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 46689
+ },
+ {
+   "Customer Name": "Avon Foundation",
+   "Opportunity Id": "0061500000T9tvKAAR",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 45578
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tvOAAR",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 44467
+ },
+ {
+   "Customer Name": "UUNET Technologies Inc.",
+   "Opportunity Id": "0061500000T9tvPAAR",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 3446
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tvRAAR",
+   "Product": "Prod2",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 4367
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tvUAAR",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 3488
+ },
+ {
+   "Customer Name": "Dial Pool - TNT",
+   "Opportunity Id": "0061500000T9ttyAAB",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 5478
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tsBAAR",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 5478
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tsJAAR",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 2356
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tsLAAR",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 5478
+ },
+ {
+   "Customer Name": "Qwest Communications Company LLC",
+   "Opportunity Id": "0061500000T9tuUAAR",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 13256
+ },
+ {
+   "Customer Name": "Place Properties",
+   "Opportunity Id": "0061500000T9tuVAAR",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 34467
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tsMAAR",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 89890
+ },
+ {
+   "Customer Name": "White Construction - JAN LAN",
+   "Opportunity Id": "0061500000T9tsQAAR",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 4558
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tsUAAR",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 3434
+ },
+ {
+   "Customer Name": "Intgrted Software Sys I",
+   "Opportunity Id": "0061500000T9tsZAAR",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 465
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tsdAAB",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 46589
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tsoAAB",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 4467
+ },
+ {
+   "Customer Name": "Headquarters USAISC",
+   "Opportunity Id": "0061500000T9trjAAB",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 2367
+ },
+ {
+   "Customer Name": "Xerox Corporation",
+   "Opportunity Id": "0061500000T9trkAAB",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 24477
+ },
+ {
+   "Customer Name": "Level 3 Communications Inc.",
+   "Opportunity Id": "0061500000T9trlAAB",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 23367
+ },
+ {
+   "Customer Name": "Amateur Radio Digital Communications",
+   "Opportunity Id": "0061500000T9truAAB",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 34477
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9ts4AAB",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 2367
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tueAAB",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 343677
+ },
+ {
+   "Customer Name": "UUNET Technologies Inc.",
+   "Opportunity Id": "0061500000T9tujAAB",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 24367
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tutAAB",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 4367
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tuvAAB",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 5477
+ },
+ {
+   "Customer Name": "UUNET Technologies Inc.",
+   "Opportunity Id": "0061500000T9tvYAAR",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 8790
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tvdAAB",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 4368
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tvlAAB",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 35478
+ },
+ {
+   "Customer Name": "Qwest Communications Company LLC",
+   "Opportunity Id": "0061500000T9tvpAAB",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 3578
+ },
+ {
+   "Customer Name": "Qwest Communications Company LLC",
+   "Opportunity Id": "0061500000T9ttWAAR",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 34368
+ },
+ {
+   "Customer Name": "Avon Foundation",
+   "Opportunity Id": "0061500000T9ttgAAB",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 890
+ },
+ {
+   "Customer Name": "Qwest Communications Company LLC",
+   "Opportunity Id": "0061500000T9ttjAAB",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 24378
+ },
+ {
+   "Customer Name": "UUNET Technologies Inc.",
+   "Opportunity Id": "0061500000T9ttmAAB",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 3688
+ },
+ {
+   "Customer Name": "Qwest Communications Company LLC",
+   "Opportunity Id": "0061500000T9ttoAAB",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 36899
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9ttpAAB",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 24368
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tvHAAR",
+   "Product": "Prod3",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 23257
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tvWAAR",
+   "Product": "Prod4",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 34367
+ },
+ {
+   "Customer Name": "Bellsouth.net Inc.",
+   "Opportunity Id": "0061500000T9tszAAB",
+   "Product": "Prod4",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 45589
+ },
+ {
+   "Customer Name": "UUNET Technologies Inc.",
+   "Opportunity Id": "0061500000T9ttKAAR",
+   "Product": "Prod4",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 2367
+ },
+ {
+   "Customer Name": "UUNET Technologies Inc.",
+   "Opportunity Id": "0061500000T9tsGAAR",
+   "Product": "Prod4",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 35367
+ },
+ {
+   "Customer Name": "Static IP Block - YGTNOH ISDN LAN",
+   "Opportunity Id": "0061500000T9tuJAAR",
+   "Product": "Prod4",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 24367
+ },
+ {
+   "Customer Name": "AT&T Internet Services",
+   "Opportunity Id": "0061500000T9tuOAAR",
+   "Product": "Prod4",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 3436
+ },
+ {
+   "Customer Name": "AT&T Internet Services",
+   "Opportunity Id": "0061500000T9tuXAAR",
+   "Product": "Prod4",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 2467
+ },
+ {
+   "Customer Name": "Diamond Computer Company",
+   "Opportunity Id": "0061500000T9tt7AAB",
+   "Product": "Prod4",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 6578
+ },
+ {
+   "Customer Name": "UUNET Technologies Inc.",
+   "Opportunity Id": "0061500000T9ttCAAR",
+   "Product": "Prod4",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 2436
+ },
+ {
+   "Customer Name": "UUNET Technologies Inc.",
+   "Opportunity Id": "0061500000T9tsgAAB",
+   "Product": "Prod4",
+   "Prediction Run Date": "6/1/2016",
+   "Opportunity Value": 5775
+ }
+]

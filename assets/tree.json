@@ -1,0 +1,523 @@
+{ "name": "QFI",
+  "children": [
+    { "name": "Opportunity", "Custs": 24, "Extremely-Likely": 9, "Likely": 4, "Swing": 6, "Unlikely": 3, "Extremely-Unlikely": 2,
+      "children": [
+        { "name": "Opportunity Name", "Custs": 24, "Extremely-Likely": 9, "Likely": 4, "Swing": 6, "Unlikely": 3, "Extremely-Unlikely": 2,
+          "children": [
+            { "name": "Names starting with A-E", "Custs": 9, "Extremely-Likely": 3, "Likely": 2, "Swing": 2, "Unlikely": 1, "Extremely-Unlikely": 1,
+              "children": [
+                { "name": "Account1",
+                  "children": [
+                    { "name": "QFI Overall" },
+                    { "name": "QFI INTER",
+                      "children": [
+                        { "name": "QFI-WEB-INTER" },
+                        { "name": "QFI-CRM-INTER" },
+                        { "name": "QFI-HD-INTER" },
+                        { "name": "QFI-SM-INTER" },
+                        { "name": "QFI-SH-INTER" }
+                      ] },
+                    { "name": "QFI INTRA",
+                      "children": [
+                        { "name": "QFI-WEB-INTRA" },
+                        { "name": "QFI-CRM-INTRA" },
+                        { "name": "QFI-HD-INTRA" },
+                        { "name": "QFI-SM-INTRA" },
+                        { "name": "QFI-SH-INTRA" }
+                      ] }
+                  ] },
+                { "name": "Account2",
+                  "children": [
+                    { "name": "QFI Overall" },
+                    { "name": "QFI INTER",
+                      "children": [
+                        { "name": "QFI-WEB-INTER" },
+                        { "name": "QFI-CRM-INTER" },
+                        { "name": "QFI-HD-INTER" },
+                        { "name": "QFI-SM-INTER" },
+                        { "name": "QFI-SH-INTER" }
+                      ] },
+                    { "name": "QFI INTRA",
+                      "children": [
+                        { "name": "QFI-WEB-INTRA" },
+                        { "name": "QFI-CRM-INTRA" },
+                        { "name": "QFI-HD-INTRA" },
+                        { "name": "QFI-SM-INTRA" },
+                        { "name": "QFI-SH-INTRA" }
+                      ] }
+                  ] },
+                { "name": "Account3",
+                  "children": [
+                    { "name": "QFI Overall" },
+                    { "name": "QFI INTER",
+                      "children": [
+                        { "name": "QFI-WEB-INTER" },
+                        { "name": "QFI-CRM-INTER" },
+                        { "name": "QFI-HD-INTER" },
+                        { "name": "QFI-SM-INTER" },
+                        { "name": "QFI-SH-INTER" }
+                      ] },
+                    { "name": "QFI INTRA",
+                      "children": [
+                        { "name": "QFI-WEB-INTRA" },
+                        { "name": "QFI-CRM-INTRA" },
+                        { "name": "QFI-HD-INTRA" },
+                        { "name": "QFI-SM-INTRA" },
+                        { "name": "QFI-SH-INTRA" }
+                      ] }
+                  ] },
+                { "name": "Account4",
+                  "children": [
+                    { "name": "QFI Overall" },
+                    { "name": "QFI INTER",
+                      "children": [
+                        { "name": "QFI-WEB-INTER" },
+                        { "name": "QFI-CRM-INTER" },
+                        { "name": "QFI-HD-INTER" },
+                        { "name": "QFI-SM-INTER" },
+                        { "name": "QFI-SH-INTER" }
+                      ] },
+                    { "name": "QFI INTRA",
+                      "children": [
+                        { "name": "QFI-WEB-INTRA" },
+                        { "name": "QFI-CRM-INTRA" },
+                        { "name": "QFI-HD-INTRA" },
+                        { "name": "QFI-SM-INTRA" },
+                        { "name": "QFI-SH-INTRA" }
+                      ] }
+                  ] },
+                { "name": "Account5",
+                  "children": [
+                    { "name": "QFI Overall" },
+                    { "name": "QFI INTER",
+                      "children": [
+                        { "name": "QFI-WEB-INTER" },
+                        { "name": "QFI-CRM-INTER" },
+                        { "name": "QFI-HD-INTER" },
+                        { "name": "QFI-SM-INTER" },
+                        { "name": "QFI-SH-INTER" }
+                      ] },
+                    { "name": "QFI INTRA",
+                      "children": [
+                        { "name": "QFI-WEB-INTRA" },
+                        { "name": "QFI-CRM-INTRA" },
+                        { "name": "QFI-HD-INTRA" },
+                        { "name": "QFI-SM-INTRA" },
+                        { "name": "QFI-SH-INTRA" }
+                      ] }
+                  ] },
+                { "name": "Account6",
+                  "children": [
+                    { "name": "QFI Overall" },
+                    { "name": "QFI INTER",
+                      "children": [
+                        { "name": "QFI-WEB-INTER" },
+                        { "name": "QFI-CRM-INTER" },
+                        { "name": "QFI-HD-INTER" },
+                        { "name": "QFI-SM-INTER" },
+                        { "name": "QFI-SH-INTER" }
+                      ] },
+                    { "name": "QFI INTRA",
+                      "children": [
+                        { "name": "QFI-WEB-INTRA" },
+                        { "name": "QFI-CRM-INTRA" },
+                        { "name": "QFI-HD-INTRA" },
+                        { "name": "QFI-SM-INTRA" },
+                        { "name": "QFI-SH-INTRA" }
+                      ] }
+                  ] },
+                { "name": "Account7",
+                  "children": [
+                    { "name": "QFI Overall" },
+                    { "name": "QFI INTER",
+                      "children": [
+                        { "name": "QFI-WEB-INTER" },
+                        { "name": "QFI-CRM-INTER" },
+                        { "name": "QFI-HD-INTER" },
+                        { "name": "QFI-SM-INTER" },
+                        { "name": "QFI-SH-INTER" }
+                      ] },
+                    { "name": "QFI INTRA",
+                      "children": [
+                        { "name": "QFI-WEB-INTRA" },
+                        { "name": "QFI-CRM-INTRA" },
+                        { "name": "QFI-HD-INTRA" },
+                        { "name": "QFI-SM-INTRA" },
+                        { "name": "QFI-SH-INTRA" }
+                      ] }
+                  ] },
+                { "name": "Account8",
+                  "children": [
+                    { "name": "QFI Overall" },
+                    { "name": "QFI INTER",
+                      "children": [
+                        { "name": "QFI-WEB-INTER" },
+                        { "name": "QFI-CRM-INTER" },
+                        { "name": "QFI-HD-INTER" },
+                        { "name": "QFI-SM-INTER" },
+                        { "name": "QFI-SH-INTER" }
+                      ] },
+                    { "name": "QFI INTRA",
+                      "children": [
+                        { "name": "QFI-WEB-INTRA" },
+                        { "name": "QFI-CRM-INTRA" },
+                        { "name": "QFI-HD-INTRA" },
+                        { "name": "QFI-SM-INTRA" },
+                        { "name": "QFI-SH-INTRA" }
+                      ] }
+                  ] },
+                { "name": "Account9",
+                  "children": [
+                    { "name": "QFI Overall" },
+                    { "name": "QFI INTER",
+                      "children": [
+                        { "name": "QFI-WEB-INTER" },
+                        { "name": "QFI-CRM-INTER" },
+                        { "name": "QFI-HD-INTER" },
+                        { "name": "QFI-SM-INTER" },
+                        { "name": "QFI-SH-INTER" }
+                      ] },
+                    { "name": "QFI INTRA",
+                      "children": [
+                        { "name": "QFI-WEB-INTRA" },
+                        { "name": "QFI-CRM-INTRA" },
+                        { "name": "QFI-HD-INTRA" },
+                        { "name": "QFI-SM-INTRA" },
+                        { "name": "QFI-SH-INTRA" }
+                      ] }
+                  ] }
+              ] },
+            { "name": "Names starting with F-J", "Custs": 5, "Extremely-Likely": 2, "Likely": 1, "Swing": 1, "Unlikely": 1, "Extremely-Unlikely": 0,
+              "children": [
+                { "name": "Account10",
+                  "children": [
+                    { "name": "QFI Overall" },
+                    { "name": "QFI INTER",
+                      "children": [
+                        { "name": "QFI-WEB-INTER" },
+                        { "name": "QFI-CRM-INTER" },
+                        { "name": "QFI-HD-INTER" },
+                        { "name": "QFI-SM-INTER" },
+                        { "name": "QFI-SH-INTER" }
+                      ] },
+                    { "name": "QFI INTRA",
+                      "children": [
+                        { "name": "QFI-WEB-INTRA" },
+                        { "name": "QFI-CRM-INTRA" },
+                        { "name": "QFI-HD-INTRA" },
+                        { "name": "QFI-SM-INTRA" },
+                        { "name": "QFI-SH-INTRA" }
+                      ] }
+                  ] },
+                { "name": "Account11",
+                  "children": [
+                    { "name": "QFI Overall" },
+                    { "name": "QFI INTER",
+                      "children": [
+                        { "name": "QFI-WEB-INTER" },
+                        { "name": "QFI-CRM-INTER" },
+                        { "name": "QFI-HD-INTER" },
+                        { "name": "QFI-SM-INTER" },
+                        { "name": "QFI-SH-INTER" }
+                      ] },
+                    { "name": "QFI INTRA",
+                      "children": [
+                        { "name": "QFI-WEB-INTRA" },
+                        { "name": "QFI-CRM-INTRA" },
+                        { "name": "QFI-HD-INTRA" },
+                        { "name": "QFI-SM-INTRA" },
+                        { "name": "QFI-SH-INTRA" }
+                      ] }
+                  ] },
+                { "name": "Account12",
+                  "children": [
+                    { "name": "QFI Overall" },
+                    { "name": "QFI INTER",
+                      "children": [
+                        { "name": "QFI-WEB-INTER" },
+                        { "name": "QFI-CRM-INTER" },
+                        { "name": "QFI-HD-INTER" },
+                        { "name": "QFI-SM-INTER" },
+                        { "name": "QFI-SH-INTER" }
+                      ] },
+                    { "name": "QFI INTRA",
+                      "children": [
+                        { "name": "QFI-WEB-INTRA" },
+                        { "name": "QFI-CRM-INTRA" },
+                        { "name": "QFI-HD-INTRA" },
+                        { "name": "QFI-SM-INTRA" },
+                        { "name": "QFI-SH-INTRA" }
+                      ] }
+                  ] },
+                { "name": "Account13",
+                  "children": [
+                    { "name": "QFI Overall" },
+                    { "name": "QFI INTER",
+                      "children": [
+                        { "name": "QFI-WEB-INTER" },
+                        { "name": "QFI-CRM-INTER" },
+                        { "name": "QFI-HD-INTER" },
+                        { "name": "QFI-SM-INTER" },
+                        { "name": "QFI-SH-INTER" }
+                      ] },
+                    { "name": "QFI INTRA",
+                      "children": [
+                        { "name": "QFI-WEB-INTRA" },
+                        { "name": "QFI-CRM-INTRA" },
+                        { "name": "QFI-HD-INTRA" },
+                        { "name": "QFI-SM-INTRA" },
+                        { "name": "QFI-SH-INTRA" }
+                      ] }
+                  ] },
+                { "name": "Account14",
+                  "children": [
+                    { "name": "QFI Overall" },
+                    { "name": "QFI INTER",
+                      "children": [
+                        { "name": "QFI-WEB-INTER" },
+                        { "name": "QFI-CRM-INTER" },
+                        { "name": "QFI-HD-INTER" },
+                        { "name": "QFI-SM-INTER" },
+                        { "name": "QFI-SH-INTER" }
+                      ] },
+                    { "name": "QFI INTRA",
+                      "children": [
+                        { "name": "QFI-WEB-INTRA" },
+                        { "name": "QFI-CRM-INTRA" },
+                        { "name": "QFI-HD-INTRA" },
+                        { "name": "QFI-SM-INTRA" },
+                        { "name": "QFI-SH-INTRA" }
+                      ] }
+                  ] }
+              ] },
+            { "name": "Names starting with K-P", "Custs": 4, "Extremely-Likely": 0, "Likely": 1, "Swing": 1, "Unlikely": 1, "Extremely-Unlikely": 1,
+              "children": [
+                { "name": "Account15",
+                  "children": [
+                    { "name": "QFI Overall" },
+                    { "name": "QFI INTER",
+                      "children": [
+                        { "name": "QFI-WEB-INTER" },
+                        { "name": "QFI-CRM-INTER" },
+                        { "name": "QFI-HD-INTER" },
+                        { "name": "QFI-SM-INTER" },
+                        { "name": "QFI-SH-INTER" }
+                      ] },
+                    { "name": "QFI INTRA",
+                      "children": [
+                        { "name": "QFI-WEB-INTRA" },
+                        { "name": "QFI-CRM-INTRA" },
+                        { "name": "QFI-HD-INTRA" },
+                        { "name": "QFI-SM-INTRA" },
+                        { "name": "QFI-SH-INTRA" }
+                      ] }
+                  ] },
+                { "name": "Account16",
+                  "children": [
+                    { "name": "QFI Overall" },
+                    { "name": "QFI INTER",
+                      "children": [
+                        { "name": "QFI-WEB-INTER" },
+                        { "name": "QFI-CRM-INTER" },
+                        { "name": "QFI-HD-INTER" },
+                        { "name": "QFI-SM-INTER" },
+                        { "name": "QFI-SH-INTER" }
+                      ] },
+                    { "name": "QFI INTRA",
+                      "children": [
+                        { "name": "QFI-WEB-INTRA" },
+                        { "name": "QFI-CRM-INTRA" },
+                        { "name": "QFI-HD-INTRA" },
+                        { "name": "QFI-SM-INTRA" },
+                        { "name": "QFI-SH-INTRA" }
+                      ] }
+                  ] },
+                { "name": "Account17",
+                  "children": [
+                    { "name": "QFI Overall" },
+                    { "name": "QFI INTER",
+                      "children": [
+                        { "name": "QFI-WEB-INTER" },
+                        { "name": "QFI-CRM-INTER" },
+                        { "name": "QFI-HD-INTER" },
+                        { "name": "QFI-SM-INTER" },
+                        { "name": "QFI-SH-INTER" }
+                      ] },
+                    { "name": "QFI INTRA",
+                      "children": [
+                        { "name": "QFI-WEB-INTRA" },
+                        { "name": "QFI-CRM-INTRA" },
+                        { "name": "QFI-HD-INTRA" },
+                        { "name": "QFI-SM-INTRA" },
+                        { "name": "QFI-SH-INTRA" }
+                      ] }
+                  ] },
+                { "name": "Account18",
+                  "children": [
+                    { "name": "QFI Overall" },
+                    { "name": "QFI INTER",
+                      "children": [
+                        { "name": "QFI-WEB-INTER" },
+                        { "name": "QFI-CRM-INTER" },
+                        { "name": "QFI-HD-INTER" },
+                        { "name": "QFI-SM-INTER" },
+                        { "name": "QFI-SH-INTER" }
+                      ] },
+                    { "name": "QFI INTRA",
+                      "children": [
+                        { "name": "QFI-WEB-INTRA" },
+                        { "name": "QFI-CRM-INTRA" },
+                        { "name": "QFI-HD-INTRA" },
+                        { "name": "QFI-SM-INTRA" },
+                        { "name": "QFI-SH-INTRA" }
+                      ] }
+                  ] }
+              ] },
+            { "name": "Names starting with Q-U", "Custs": 2, "Extremely-Likely": 0, "Likely": 0, "Swing": 2, "Unlikely": 0, "Extremely-Unlikely": 0,
+              "children": [
+                { "name": "Account19",
+                  "children": [
+                    { "name": "QFI Overall" },
+                    { "name": "QFI INTER",
+                      "children": [
+                        { "name": "QFI-WEB-INTER" },
+                        { "name": "QFI-CRM-INTER" },
+                        { "name": "QFI-HD-INTER" },
+                        { "name": "QFI-SM-INTER" },
+                        { "name": "QFI-SH-INTER" }
+                      ] },
+                    { "name": "QFI INTRA",
+                      "children": [
+                        { "name": "QFI-WEB-INTRA" },
+                        { "name": "QFI-CRM-INTRA" },
+                        { "name": "QFI-HD-INTRA" },
+                        { "name": "QFI-SM-INTRA" },
+                        { "name": "QFI-SH-INTRA" }
+                      ] }
+                  ] },
+                { "name": "Account20",
+                  "children": [
+                    { "name": "QFI Overall" },
+                    { "name": "QFI INTER",
+                      "children": [
+                        { "name": "QFI-WEB-INTER" },
+                        { "name": "QFI-CRM-INTER" },
+                        { "name": "QFI-HD-INTER" },
+                        { "name": "QFI-SM-INTER" },
+                        { "name": "QFI-SH-INTER" }
+                      ] },
+                    { "name": "QFI INTRA",
+                      "children": [
+                        { "name": "QFI-WEB-INTRA" },
+                        { "name": "QFI-CRM-INTRA" },
+                        { "name": "QFI-HD-INTRA" },
+                        { "name": "QFI-SM-INTRA" },
+                        { "name": "QFI-SH-INTRA" }
+                      ] }
+                  ] }
+              ] },
+            { "name": "Names starting with V-Z", "Custs": 4, "Extremely-Likely": 4, "Likely": 0, "Swing": 0, "Unlikely": 0, "Extremely-Unlikely": 0,
+              "children": [
+                { "name": "Account21",
+                  "children": [
+                    { "name": "QFI Overall" },
+                    { "name": "QFI INTER",
+                      "children": [
+                        { "name": "QFI-WEB-INTER" },
+                        { "name": "QFI-CRM-INTER" },
+                        { "name": "QFI-HD-INTER" },
+                        { "name": "QFI-SM-INTER" },
+                        { "name": "QFI-SH-INTER" }
+                      ] },
+                    { "name": "QFI INTRA",
+                      "children": [
+                        { "name": "QFI-WEB-INTRA" },
+                        { "name": "QFI-CRM-INTRA" },
+                        { "name": "QFI-HD-INTRA" },
+                        { "name": "QFI-SM-INTRA" },
+                        { "name": "QFI-SH-INTRA" }
+                      ] }
+                  ] },
+                { "name": "Account22",
+                  "children": [
+                    { "name": "QFI Overall" },
+                    { "name": "QFI INTER",
+                      "children": [
+                        { "name": "QFI-WEB-INTER" },
+                        { "name": "QFI-CRM-INTER" },
+                        { "name": "QFI-HD-INTER" },
+                        { "name": "QFI-SM-INTER" },
+                        { "name": "QFI-SH-INTER" }
+                      ] },
+                    { "name": "QFI INTRA",
+                      "children": [
+                        { "name": "QFI-WEB-INTRA" },
+                        { "name": "QFI-CRM-INTRA" },
+                        { "name": "QFI-HD-INTRA" },
+                        { "name": "QFI-SM-INTRA" },
+                        { "name": "QFI-SH-INTRA" }
+                      ] }
+                  ] },
+                { "name": "Account23",
+                  "children": [
+                    { "name": "QFI Overall" },
+                    { "name": "QFI INTER",
+                      "children": [
+                        { "name": "QFI-WEB-INTER" },
+                        { "name": "QFI-CRM-INTER" },
+                        { "name": "QFI-HD-INTER" },
+                        { "name": "QFI-SM-INTER" },
+                        { "name": "QFI-SH-INTER" }
+                      ] },
+                    { "name": "QFI INTRA",
+                      "children": [
+                        { "name": "QFI-WEB-INTRA" },
+                        { "name": "QFI-CRM-INTRA" },
+                        { "name": "QFI-HD-INTRA" },
+                        { "name": "QFI-SM-INTRA" },
+                        { "name": "QFI-SH-INTRA" }
+                      ] }
+                  ] },
+                { "name": "Account24",
+                  "children": [
+                    { "name": "QFI Overall" },
+                    { "name": "QFI INTER",
+                      "children": [
+                        { "name": "QFI-WEB-INTER" },
+                        { "name": "QFI-CRM-INTER" },
+                        { "name": "QFI-HD-INTER" },
+                        { "name": "QFI-SM-INTER" },
+                        { "name": "QFI-SH-INTER" }
+                      ] },
+                    { "name": "QFI INTRA",
+                      "children": [
+                        { "name": "QFI-WEB-INTRA" },
+                        { "name": "QFI-CRM-INTRA" },
+                        { "name": "QFI-HD-INTRA" },
+                        { "name": "QFI-SM-INTRA" },
+                        { "name": "QFI-SH-INTRA" }
+                      ] }
+                  ] }
+              ] }
+          ] },
+        { "name": "Territory", "Custs": 24, "Extremely-Likely": 9, "Likely": 4, "Swing": 6, "Unlikely": 3, "Extremely-Unlikely": 2,
+          "children": [
+            { "name": "No\\rth", "Opty Value": "A string", "Custs": 8 },
+            { "name": "East", "Custs": 4 },
+            { "name": "West", "Custs": 6 },
+            { "name": "Sou\"th", "Custs": 6 }
+          ] },
+        { "name": "Sales Person", "Custs": 24, "Extremely-Likely": 9, "Likely": 4, "Swing": 6, "Unlikely": 3, "Extremely-Unlikely": 2,
+          "children": [
+            { "name": "sales person1", "Custs": 1 },
+            { "name": "sales person2", "Custs": 3 },
+            { "name": "sales person3", "Custs": 6 },
+            { "name": "sales person4", "Custs": 5 },
+            { "name": "sales person5", "Custs": 3 },
+            { "name": "sales person6", "Custs": 2 },
+            { "name": "sales person7", "Custs": 2 },
+            { "name": "sales person8", "Custs": 1 },
+            { "name": "sales person9", "Custs": 1 }
+          ] }
+      ] }
+  ] }

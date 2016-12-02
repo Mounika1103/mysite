@@ -1,0 +1,123 @@
+<li class="nav-item {% if active == 'users' %}active {% endif %}">
+    <a href="{% url 'clients_users' %}" class="nav-link">
+        <i class="icon-users"></i>
+        <span class="title">Users</span>
+    </a>
+</li>
+<li class="nav-item {% if active == 'groups' %}active {% endif %}">
+    <a href="javascript:;" class="nav-link nav-toggle">
+        <i class="icon-home"></i>
+        <span class="title">Groups</span>
+        <span class="arrow"></span>
+    </a>
+    <ul class="sub-menu">
+        <li class="nav-item {% if sub_active == 'customers' %}active {% endif %}">
+            <a href="{% url 'clients_groups_customers' %}" class="nav-link">
+                <i class="icon-docs"></i>
+                <span class="title">Customers</span>
+            </a>
+        </li>
+        <li class="nav-item {% if sub_active == 'users' %}active {% endif %}">
+            <a href="{% url 'clients_groups_users' %}" class="nav-link ">
+                <i class="icon-users"></i>
+                <span class="title">Users</span>
+            </a>
+        </li>
+    </ul>
+</li>
+<li class="nav-item {% if active == 'records' %}active {% endif %}">
+    <a href="{% url 'clients_records' %}" class="nav-link">
+        <i class="icon-directions"></i>
+        <span class="title">Lead Generation Filter</span>
+    </a>
+</li>
+<li class="nav-item {% if active == 'prediction' %}active {% endif %}">
+    <a href="{% url 'clients_prediction' %}" class="nav-link">
+        <i class="icon-calculator"></i>
+        <span class="title">Predictions</span>
+        <span class="arrow"></span>
+    </a>
+    <ul class="sub-menu">
+        <li class="nav-item {% if sub_active == 'prediction_run' %}active {% endif %}">
+            <a href="{% url 'clients_prediction' %}" class="nav-link ">
+                <!-- <i class="icon-pie-chart"></i> -->
+                <span class="title">Run Prediction</span>
+            </a>
+        </li>
+        <li class="nav-item {% if sub_active == 'prediction_summary' %}active {% endif %}">
+            <a href="{% url 'clients_prediction_summary' %}" class="nav-link ">
+                <!-- <i class="icon-pie-chart"></i> -->
+                <span class="title">Prediction Summary</span>
+            </a>
+        </li>
+    </ul>
+</li>
+<li class="nav-item {% if active == 'analytical_plots' %}active {% endif %}">
+    <a href="#" class="nav-link">
+        <i class="icon-graph"></i>
+        <span class="title">Prediction Analytics</span>
+        <span class="arrow"></span>
+    </a>
+    <ul class="sub-menu">
+        <li class="nav-item {% if sub_active == 'classification_opportunity_value' %}active {% endif %}">
+            <a href="{% url 'plots_classification_opportunity_value' %}" class="nav-link ">
+                <!-- <i class="icon-pie-chart"></i> -->
+                <span class="title">Classification by Opportunity Value</span>
+            </a>
+        </li>
+        <li class="nav-item {% if sub_active == 'classification_result' %}active {% endif %}">
+            <a href="{% url 'plots_classification_result' %}" class="nav-link ">
+                <!-- <i class="icon-pie-chart"></i> -->
+                <span class="title">Classification by Sales Stages by Opportunity Value</span>
+            </a>
+        </li>
+        <li class="nav-item {% if sub_active == 'qfi_performance_overtime' %}active {% endif %}">
+            <a href="{% url 'plots_qfi_performance_overtime' %}" class="nav-link ">
+                <!-- <i class="icon-graph"></i> -->
+                <span class="title">Quality Fit Index Trends by Opportunity Name</span>
+            </a>
+        </li>
+        <li class="nav-item {% if sub_active == 'opportunity_qfi' %}active {% endif %}">
+            <a href="{% url 'plots_opportunity_qfi' %}" class="nav-link ">
+                <!-- <i class="icon-bar-chart"></i> -->
+                <span class="title">Quality Fit Indices for Opportunity</span>
+            </a>
+        </li>
+        <li class="nav-item {% if sub_active == 'qfi_comparatives' %}active {% endif %}">
+            <a href="{% url 'plots_qfi_comparatives' %}" class="nav-link ">
+                <!-- <i class="icon-bar-chart"></i> -->
+                <span class="title">Quality Fit Index Comparative Analytics</span>
+            </a>
+        </li>
+        <li class="nav-item {% if sub_active == 'prediction_accuracy' %}active {% endif %}">
+            <a href="{% url 'plots_prediction_accuracy' %}" class="nav-link ">
+                <!-- <i class="icon-bar-chart"></i> -->
+                <span class="title">Prediction Accuracy Detail Report</span>
+            </a>
+        </li>
+        <li class="nav-item {% if sub_active == 'weighted_tree' %}active {% endif %}">
+            <a href="{% url 'plots_weighted_tree' %}" class="nav-link ">
+                <!-- <i class="icon-bar-chart"></i> -->
+                <span class="title">Weighted Tree Demo</span>
+            </a>
+        </li>
+    </ul>
+</li>
+<li class="nav-item {% if active == 'web_analytics' %}active {% endif %}">
+    <a href="{% url 'clients_analytics_web' %}" class="nav-link">
+        <i class="icon-graph"></i>
+        <span class="title">Web Analytics</span>
+    </a>
+</li>
+<!-- <li class="nav-item {% if active == 'reports' %}active {% endif %}">
+    <a href="#" class="nav-link">
+        <i class="icon-notebook"></i>
+        <span class="title">Reports</span>
+    </a>
+</li> -->
+<li class="nav-item {% if active == 'settings' %}active {% endif %}">
+    <a href="{% url 'client_settings' %}" class="nav-link">
+        <i class="icon-settings"></i>
+        <span class="title">Settings</span>
+    </a>
+</li>
